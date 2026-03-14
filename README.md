@@ -131,7 +131,7 @@ CRUD operations
 
 Software modular design
 
-👨‍💻 Author
+👨‍💻 Author : Ratheesh-DP
 
 Student Project – Smart Campus Management System
 
